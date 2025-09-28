@@ -1,7 +1,5 @@
-import { useState } from 'react'
 import './App.css'
-import Login, {Profile,Logout} from './UserComponent'
-
+import Login,{Profile,Logout} from './UserComponent'
 function App() {
   return (
     <>
@@ -12,5 +10,5 @@ function App() {
     </>
   )
 }
-
 export default App
+
