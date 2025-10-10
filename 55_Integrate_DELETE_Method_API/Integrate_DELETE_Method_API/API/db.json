@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "Anil",
+      "age": "29",
+      "email": "anil@test.com",
+      "id": "d7e4"
+    },
+    {
+      "name": "Sam",
+      "age": "34",
+      "email": "sam@test.com",
+      "id": "eaa9"
+    },
+    {
+      "name": "Peter",
+      "age": "23",
+      "email": "peter@test.com",
+      "id": "cd0f"
+    },
+    {
+      "name": "Bruce",
+      "age": "45",
+      "email": "bruce@test.com",
+      "id": "745d"
+    },
+    {
+      "name": "Tony",
+      "age": "31",
+      "email": "tony@test.com",
+      "id": "942f"
+    }
+  ]
+}
